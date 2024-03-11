@@ -15,6 +15,6 @@ $dataDiri = [
 ];
 $pesan = "pesan ayam";
 echo $dataDiri ["nama"];
-echo $dataDiri ["alamat"];
+echo $dataDiri ["alamat"] ;
 echo $dataDiri ["golongan darah"];
 echo $pesan;
